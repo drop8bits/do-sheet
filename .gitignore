@@ -1,0 +1,10 @@
+__pycache__/*
+./__pycache__/*
+*.pyc
+.virtenv
+firefox*
+geckodriver*
+testPages
+.idea
+data-test/*
+data/*
